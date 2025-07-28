@@ -78,7 +78,7 @@ from openai import OpenAI
 Contributions are welcome!
 - Fork the repository, make changes, and open a pull request.
 - Ensure all code is tested and documented.
-- Follow coding standards as defined in a CONTRIBUTING.md file (if present).
+  
 
 
 
